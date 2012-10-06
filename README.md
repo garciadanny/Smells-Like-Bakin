@@ -1,1 +1,1 @@
-#Smells Like Bacon: a simple website to learn HTML and CSS by the [treehouse](http://teamtreehouse.com) team. 
+#Smells Like Bacon: a simple website I created with the help of the [treehouse](http://teamtreehouse.com) team to learn HTML and CSS. 
